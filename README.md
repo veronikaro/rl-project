@@ -1,2 +1,1 @@
-# rl-project
-Reinforcement learning projects
+# The most awesome reinforcement learning project will be here.
